@@ -36,7 +36,7 @@ public class ArrMethods {
 				}
 			}
 		}
-		return(a);
+		return(a); 
 	}
 	
 	// метод сортировки расческой
